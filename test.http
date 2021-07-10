@@ -1,0 +1,31 @@
+# post http://127.0.0.1:5000/api/register
+# Content-Type: application/json
+
+# {
+#     "email":"chaityan@g.com",
+#     "name":"chaityan"
+# }
+
+# post http://127.0.0.1:5000/api/test
+# Content-Type: application/json
+
+# {
+#     "candidate":"60e929e0bde59c36ac917182",
+#     "round":"third_round",
+#     "score":10
+# }
+
+
+# get http://127.0.0.1:5000/api/highscore
+# Content-Type: application/json
+
+# {
+
+# }  
+
+# get http://127.0.0.1:5000/api/avgscore
+# Content-Type: application/json
+
+# {
+
+# }  
